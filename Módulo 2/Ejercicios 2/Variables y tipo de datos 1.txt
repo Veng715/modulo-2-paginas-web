@@ -1,2 +1,2 @@
-let nombre = prompt("nombre de usuario: ");
-console.log("¡Hola " + nombre + "!");
+var nombre = prompt("nombre de usuario: ");
+console.log("Â¡Hola " + nombre + "!");
